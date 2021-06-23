@@ -1,4 +1,4 @@
-### classifying-diseases ###
+# classifying-diseases #
 
 Deep Learning has been proven to be superior in detecting and classifying disease using imagery data.
 
